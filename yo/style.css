@@ -1,0 +1,7 @@
+body {
+  background-image: url("./img/bg.jpg");
+}
+
+.container {
+  height: 100vh;
+}
